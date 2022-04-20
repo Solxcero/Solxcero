@@ -5,12 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-rumbini98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumbini98@gmail.com)](mailto:rumbini98@gmail.com)
 
 ## 💻 ~ing
-> 금융빅데이터분석
-- ~~Python~~
-- ~~Machine Learning~~
-- Hackathon
-- Project 1
-- Project 2
+> 금융빅데이터분석  
+🔹 ~~Python~~  
+🔹 ~~Machine Learning~~  
+🔹 Hackathon  
+🔹 Project 1  
+🔹 Project 2  
 
 ## 🤐 Programming Languages
 
