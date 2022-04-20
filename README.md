@@ -1,16 +1,28 @@
-### Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Solxcero/Solxcero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨**OSMU**✨
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-rumbini98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumbini98@gmail.com)](mailto:rumbini98@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 ~ing
+> 금융빅데이터분석
+- ~~Python~~
+- ~~Machine Learning~~
+- Hackathon
+- Project 1
+- Project 2
+
+## 🤐 Programming Languages
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+
+## 🌍 World
+- South Korea
+- España
+
+## 📘 Bio
+
+
+## 🙋🏻 
+
+
