@@ -8,7 +8,7 @@
 > 금융빅데이터분석  
 🔹 ~~Python~~  
 🔹 ~~Machine Learning~~  
-🔹 Hackathon  
+🔹 ~~Hackathon~~  
 🔹 Project 1  
 🔹 Project 2  
 
