@@ -6,9 +6,12 @@
 
 ## 💻 ~ing
 > 금융빅데이터분석  
-🔹 ~~Python~~  
-🔹 ~~Machine Learning~~  
-🔹 ~~Hackathon~~  
+🔹 Python  
+🔹 SQL
+🔹 Flask
+🔹 Machine Learning  
+🔹 Deep Learning
+🔹 Hackathon  
 🔹 Project 1  
 🔹 Project 2  
 
@@ -17,7 +20,7 @@
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 
 ## 🗃️ License
-💸 Certified Investment Manager
+💸 투자자산운용사
 
 ## 🌍 World
 - South Korea
