@@ -6,11 +6,11 @@
 
 ## 💻 ~ing
 > 금융빅데이터분석  
-🔹 Python  
-🔹 SQL
-🔹 Flask
+🔹 Python    
+🔹 SQL  
+🔹 Flask  
 🔹 Machine Learning  
-🔹 Deep Learning
+🔹 Deep Learning  
 🔹 Hackathon  
 🔹 Project 1  
 🔹 Project 2  
