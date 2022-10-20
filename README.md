@@ -16,8 +16,8 @@
 🔹 Project 2  
 
 
-> AI SW 개발
-🔸Java  
+> AI SW 개발   
+🔸Java     
 🔸SpringBoot
 
 ## 🤐 Programming Languages
