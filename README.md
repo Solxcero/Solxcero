@@ -27,6 +27,12 @@
 
 ## 🌍 World
 
+<div align=center>   
+ 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=1F18B1&height=100)  
+ 
+ </div>
+
  
  
 
