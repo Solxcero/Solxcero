@@ -29,7 +29,7 @@
 
 <div align=center>   
  
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=1F18B1&height=100)  
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0101B3&height=120)  
  
  </div>
 
