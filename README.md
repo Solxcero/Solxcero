@@ -3,7 +3,7 @@
  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=1F18B1&height=100&section=header&text=SunYoung's%20GitHub&fontSize=55&animation=twinkling&fontAlignY=40&fontAlign=50&desc=since2022&descSize=25&descAlignY=72&descAlign=72)
 
 # Welcome<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### 안녕하세요🙋🏻 AI BigData 전문가를 꿈꾸며 공부하고 있습니다.🧐
+#### 안녕하세요🙋🏻 AI BigData 전문가를 꿈꾸며 공부하고 있는 🐥개발자입니다.🧐
  
   </div> <br><br><br>
 
