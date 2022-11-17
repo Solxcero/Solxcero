@@ -25,14 +25,13 @@
 ## 🗃️ License
 💸 투자자산운용사
 
-## 🌍 World
 
 <div align=center>   
  
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0101B3&height=120)  
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0101B3&height=120)  
  
  </div>
-
+ -->
  
  
 
