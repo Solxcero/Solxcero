@@ -24,6 +24,7 @@
 
 ## 🗃️ License
 💸 투자자산운용사
+💻 빅데이터분석기사
 
 
 <div align=center>   
