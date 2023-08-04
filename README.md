@@ -21,9 +21,9 @@
 |No.|Project Name|Period|Link|
 |:--:|:--:|:--:|:--:|
 |9|리뷰분석을 통한 개인 맞춤형 숙소 추천 서비스(team)|2023.02.15 ~ 2023.04.07.|[Link](https://github.com/Solxcero/RnR)|
-|8|기업 공시데이터 챗봇 개발(team)|2023.02.06 ~ 2023.02.10.|[Link](https://github.com/Solxcero/sesac-2rd/tree/main/mini%20ML%20Project)|
+|8|기업 공시데이터 챗봇 개발(team)|2023.02.06 ~ 2023.02.10.|[Link](https://github.com/Solxcero/sesac-2rd/tree/main/NLP%20mini%20Project)|
 |7|손글씨 인식 AI(OCR)모델 개발(team)|2022.12.19 ~ 2022.12.27.|[Link](https://github.com/Solxcero/sesac-2rd/tree/main/DL%20Project)|
-|6|통신데이터를 활용한 연령대 예측(team)|2022.11.30. ~ 2022.12.08.|[Link](https://github.com/Solxcero/sesac-2rd/tree/main/Python_visualization)|
+|6|통신데이터를 활용한 연령대 예측(team)|2022.11.30. ~ 2022.12.08.|[Link](https://github.com/Solxcero/sesac-2rd/tree/main/mini%20ML%20Project)|
 |5|파이썬 시각화를 통한 서울시민의 행복지수와 교통혼잡도 상관성 확인(team)|2022.11.07. ~ 2022.11.23.|[Link](https://github.com/Solxcero/sesac-2rd/tree/main/Python_visualization)|
 |4|SpringBoot를 활용한 스터디 클럽 만들기(solo)|2022.10.26. ~ 2022.01.28.|[Link](https://github.com/Solxcero/sesac-2rd/tree/main/SpringBoot/sol)|
 |3|인공지능을 활용한 경기 국면별 기업 부도 예측 모형(team)|2022.06.07. ~ 2022.07.13.|[Link](https://github.com/Solxcero/ubion-3rd/tree/main/Project2)|
