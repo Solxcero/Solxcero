@@ -3,19 +3,12 @@
  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=1F18B1&height=100&section=header&text=SunYoung's%20GitHub&fontSize=55&animation=twinkling&fontAlignY=40&fontAlign=50&desc=since2022&descSize=25&descAlignY=72&descAlign=72)
 
 # Welcome<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### 안녕하세요🙋🏻 AI BigData 전문가를 꿈꾸며 공부하고 있는 병아리 개발자입니다.🐥
+#### 안녕하세요🙋🏻 AI BigData 전문가를 꿈꾸며 공부하고 있는 주니어 개발자입니다.🐥
  
   </div> <br><br><br>
 
 [![Gmail Badge](https://img.shields.io/badge/-rumbini98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumbini98@gmail.com)](mailto:rumbini98@gmail.com)
 
-## 📚 Skills
-
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=white">   <img src="https://img.shields.io/badge/MariaDB-005571?style=for-the-badge&logo=MariaDB&logoColor=white">   
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">   
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-<img alt="Linux" src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 ## 🗂️Projects
 |No.|Project Name|Period|Link|
@@ -30,13 +23,21 @@
 |2|투자자유형별 최적의 포트폴리오 구축(team)|2022.05.06. ~ 2022.06.03.|[Link](https://github.com/Solxcero/ubion-3rd/tree/main/Project1)|
 |1|주식시장 예측을 위한 코로나지수 만들기(team)|2022.04.21. ~ 2022.05.04.|[Link](https://github.com/Solxcero/ubion-3rd/tree/main/Hackathon)|
 
-## 🐱‍🏍 My Path
+## 📂 My Path
 - `2017.03 ~ 2022.02` 부산대학교 경제학과 17학번
 - `2019.08 ~ 2020.01` Universidad de Burgos 교환학생
 - `2022.01 ~ 2022.07` **유비온** PBL기반 금융 빅데이터 분석가 과정 3기 👉 [프로젝트 보러가기](https://github.com/Solxcero/_ubion_)
 - `2022.09`   제5회 핀테크 아이디어 공모전 
 - `2022.09 ~ 2022.11` 서울 핀테크 아카데미 제7기
 - `2022.10 ~ 2023.04` **솔트룩스** 인공지능 SW 개발자 양성과정 2기 👉 [프로젝트 보러가기](https://github.com/Solxcero/_SeSac_)
+
+## 📚 Skills
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=white">   <img src="https://img.shields.io/badge/MariaDB-005571?style=for-the-badge&logo=MariaDB&logoColor=white">   
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">   
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+<img alt="Linux" src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 ## 🗃️ License
 💸 투자자산운용사  
