@@ -3,8 +3,16 @@
  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=1F18B1&height=100&section=header&text=SunYoung's%20GitHub&fontSize=55&animation=twinkling&fontAlignY=40&fontAlign=50&desc=since2022&descSize=25&descAlignY=72&descAlign=72)
 
 # Welcome<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### 안녕하세요, 이선영입니다!
+
  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Solxcero?pet-id=646563349896887636"
+    width="600"
+    height="120"
+  />
+</a>
+  
   </div> <br><br><br>
 
 [![Gmail Badge](https://img.shields.io/badge/-rumbini98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumbini98@gmail.com)](mailto:rumbini98@gmail.com)
