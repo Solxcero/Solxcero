@@ -1,10 +1,6 @@
  <div align=center>
  
  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=1F18B1&height=100&section=header&text=SunYoung's%20GitHub&fontSize=55&animation=twinkling&fontAlignY=40&fontAlign=50&desc=since2022&descSize=25&descAlignY=72&descAlign=72)
-
-# Welcome<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
- 
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566612494971744"
@@ -13,8 +9,7 @@
   />
 </a>
   
-  
-  </div> <br><br><br>
+</div>
 
 [![Gmail Badge](https://img.shields.io/badge/-rumbini98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumbini98@gmail.com)](mailto:rumbini98@gmail.com)
 
@@ -61,6 +56,8 @@
  -->
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FSolxcero%2Fhit-counter&count_bg=%234E53C3&title_bg=%23090101&icon=pinboard.svg&icon_color=%234E53C3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</div>
 
 
 
