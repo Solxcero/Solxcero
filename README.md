@@ -1,13 +1,15 @@
  <div align=center>
  
  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=1F18B1&height=100&section=header&text=SunYoung's%20GitHub&fontSize=55&animation=twinkling&fontAlignY=40&fontAlign=50&desc=since2022&descSize=25&descAlignY=72&descAlign=72)
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566612494971744"
+    src="https://render.gitanimals.org/lines/Solxcero"
     width="600"
-    height="120"
+    height="130"
   />
 </a>
+  
   
 </div>
 
