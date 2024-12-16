@@ -4,11 +4,10 @@
 
 <div align = "center">  
 <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/Solxcero?pet-id=23" width="25%" height="100" contribution-view=false/>
-    <img src="https://render.gitanimals.org/lines/Solxcero?pet-id=22" width="25%" height="100" contribution-view=false/>
-    <img src="https://render.gitanimals.org/lines/Solxcero?pet-id=1" width="25%" height="100" contribution-view=false/>
+    <img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566612494971744" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566613430297376" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566613673569453" width="25%" height="150" />
+<img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566614424353193" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646882714982806514" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=647219590084149353" width="25%" height="150" />
 </a>
-
+  
 
   
 </div>
