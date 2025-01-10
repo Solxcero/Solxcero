@@ -13,7 +13,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-rumbini98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumbini98@gmail.com)](mailto:rumbini98@gmail.com)
 
-
 ## Projects
 |`Period`|Project Name|`team/solo`|Link|
 |--|--|:--:|--|
@@ -31,12 +30,12 @@
 - `2022.10 ~ 2023.04` **솔트룩스** 인공지능 SW 개발자 양성과정 2기 👉 [프로젝트 보러가기](https://github.com/Solxcero/_SeSac_)
 
 ## Skills
+**LANGUAGEs**  <a href="#"><img src="https://img.shields.io/badge/Python%20-%2314354C?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJUlEQVQ4T5WSIVMCURSFeQkaNmxEbNKMMiabjIXoaHGgMPwRiUTHpBYzFEYaNCgONmwYbUtavrNzn4Ps4u6+mTNvB8533r3vPlfIsMIwPHPOzZKsLgNfIOAe3wshP/v+1ADgMlAf+C53BcBVwahncEDQ927QwQoMfsZ8i5poCLzI3AIBY8xt1EVPuS+RgDega/YPBfE9yXUHgOcAATpBNwRc5AqQmZBTtqVNoZMaoAeDqWU9RxdmY6xbNXMLGfixxqZgpZcM8IeuAL4ssMj+b0AFwyPyT1eA1gipggZ6968y8R1QRQ3DZ1LP+7/9CfAg+xVGvX+1ojW1e4mF/gYAPRjwKoAKNv40/lNbGucRWqNlYgsY1e+lmXWqlsBj+15ZgC41qmYLTU1xEXRvWZgAAAAASUVORK5CYII=&logoColor=white"/>   <a href="#"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+</p>
 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=white">   <img src="https://img.shields.io/badge/MariaDB-005571?style=for-the-badge&logo=MariaDB&logoColor=white">   
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">   
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-<img alt="Linux" src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=Linux&logoColor=white"/>
+**DBs**   <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/MariaDB-005571?style=flat-square&logo=MariaDB&logoColor=white"/></a>  <a href="#"><img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>  
+
+**TOOLs/FRAMEWORKs**   <a href="#"><img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Linux-181717?style=flat-square&logo=Linux&logoColor=white"/></a>
 
 ## License
 투자자산운용사  
