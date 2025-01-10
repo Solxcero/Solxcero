@@ -28,8 +28,8 @@
 |1|주식시장 예측을 위한 코로나지수 만들기(team)|2022.04.21. ~ 2022.05.04.|[Link](https://github.com/Solxcero/ubion-3rd/tree/main/Hackathon)|
 
 ## 📂 My Path
-- `2017.03 ~ 2022.02` 부산대학교 경제학과 17학번
-- `2019.08 ~ 2020.01` Universidad de Burgos 교환학생
+- `2017.03 ~ 2022.02` 부산대학교 경제학과
+- `2019.08 ~ 2020.01` Universidad de Burgos , Español
 - `2022.01 ~ 2022.07` **유비온** PBL기반 금융 빅데이터 분석가 과정 3기 👉 [프로젝트 보러가기](https://github.com/Solxcero/_ubion_)
 - `2022.09`   제5회 핀테크 아이디어 공모전 
 - `2022.09 ~ 2022.11` 서울 핀테크 아카데미 제7기
