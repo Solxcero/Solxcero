@@ -41,10 +41,6 @@
 - `2022.10 ~ 2023.04` **솔트룩스** 인공지능 SW 개발자 양성과정 2기 👉 [프로젝트 보러가기](https://github.com/Solxcero/_SeSac_)
 
 
-## License
-투자자산운용사  
-빅데이터분석기사
-
 <div align=center>   
  
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0101B3&height=120)  
