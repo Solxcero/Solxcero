@@ -21,24 +21,6 @@
 |`2022.06.07. ~ 2022.07.13.`|인공지능을 활용한 경기 국면별 기업 부도 예측 모형|`team`|[Link](https://github.com/Solxcero/ubion-3rd/tree/main/Project2)|
 |`2022.05.06. ~ 2022.06.03.`|투자자유형별 최적의 포트폴리오 구축|`team`|[Link](https://github.com/Solxcero/ubion-3rd/tree/main/Project1)|
 
-## Skills
-**LANGUAGEs**  
-<a href="#"><img src="https://img.shields.io/badge/Python%20-%2314354C?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJUlEQVQ4T5WSIVMCURSFeQkaNmxEbNKMMiabjIXoaHGgMPwRiUTHpBYzFEYaNCgONmwYbUtavrNzn4Ps4u6+mTNvB8533r3vPlfIsMIwPHPOzZKsLgNfIOAe3wshP/v+1ADgMlAf+C53BcBVwahncEDQ927QwQoMfsZ8i5poCLzI3AIBY8xt1EVPuS+RgDega/YPBfE9yXUHgOcAATpBNwRc5AqQmZBTtqVNoZMaoAeDqWU9RxdmY6xbNXMLGfixxqZgpZcM8IeuAL4ssMj+b0AFwyPyT1eA1gipggZ6968y8R1QRQ3DZ1LP+7/9CfAg+xVGvX+1ojW1e4mF/gYAPRjwKoAKNv40/lNbGucRWqNlYgsY1e+lmXWqlsBj+15ZgC41qmYLTU1xEXRvWZgAAAAASUVORK5CYII=&logoColor=white"/>   <a href="#"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-</p>
-
-**DBs**   
-<a href="#"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/MariaDB-005571?style=flat-square&logo=MariaDB&logoColor=white"/></a>  <a href="#"><img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>  
-
-**TOOLs/FRAMEWORKs**   
-<a href="#"><img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Linux-181717?style=flat-square&logo=Linux&logoColor=white"/></a>
-
-## My Path
-- `2017.03 ~ 2022.02` 부산대학교 경제학과
-- `2019.08 ~ 2020.01` Universidad de Burgos , Español
-- `2022.01 ~ 2022.07` **유비온** PBL기반 금융 빅데이터 분석가 과정 3기 👉 [프로젝트 보러가기](https://github.com/Solxcero/_ubion_)
-- `2022.09`   제5회 핀테크 아이디어 공모전 
-- `2022.09 ~ 2022.11` 서울 핀테크 아카데미 제7기
-- `2022.10 ~ 2023.04` **솔트룩스** 인공지능 SW 개발자 양성과정 2기 👉 [프로젝트 보러가기](https://github.com/Solxcero/_SeSac_)
 
 
 <div align=center>   
