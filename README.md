@@ -3,8 +3,7 @@
  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=1F18B1&height=100&section=header&text=SunYoung's%20GitHub&fontSize=55&animation=twinkling&fontAlignY=40&fontAlign=50&desc=since2022&descSize=25&descAlignY=72&descAlign=72)
 
 <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566612494971744" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566613430297376" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566613673569453" width="25%" height="150" />
-<img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566614424353193" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646882714982806514" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=647219590084149353" width="25%" height="150" />
+    <img src="https://render.gitanimals.org/lines/Solxcero?pet-id=646566612494971744" width="25%" height="150" /><img src="https://render.gitanimals.org/lines/Solxcero?pet-id=647219590084149353" width="25%" height="150" />
 </a>
   
 
